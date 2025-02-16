@@ -1,0 +1,6 @@
+after getting the msg from git that 
+there was a conflict started,
+I opened feature.txt then search for the conflict 
+then found it, git helped alot at telling which 
+line for which commit then deleted the feature-branch
+and kept the main commit that is all.

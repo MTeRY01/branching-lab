@@ -1,0 +1,5 @@
+pull --> fetch and merge ur copy
+fetch --> get the change without mertge or adding it to ur code
+-----------
+git stash change to other branch without worry about any
+code that isnt ready to be staged or mertge.
